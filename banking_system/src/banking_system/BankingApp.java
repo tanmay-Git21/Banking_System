@@ -7,6 +7,7 @@ import java.util.Scanner;
 
 import static java.lang.Class.forName;
 
+// this is driver class which contians main methods and it contains while loop with switch statments for options for the user
 public class BankingApp {
     private static final String url = "jdbc:mysql://localhost:3306/banking_system";
     private static final String username = "root";
